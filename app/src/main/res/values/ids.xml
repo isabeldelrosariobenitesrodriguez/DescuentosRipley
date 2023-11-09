@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner" type="id" />
+    <item name="editText" type="id" />
+    <item name="button" type="id" />
+    <item name="textViewIgv" type="id" />
+    <item name="textViewMontoSinDescuento" type="id" />
+    <item name="textViewPorcentajeDescuento" type="id" />
+    <item name="textViewMontoConDescuento" type="id" />
+</resources>
